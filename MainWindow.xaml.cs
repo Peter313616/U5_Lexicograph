@@ -1,3 +1,8 @@
+/*
+ * Peter McEwen
+ * May 26, 2019
+ * Finds the millionth permutation of the numbers 0 to 9
+ */
 using System;
 using System.Collections.Generic;
 using System.Linq;
